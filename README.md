@@ -9,7 +9,7 @@ Yes.
 
 ## Pics
 <p align="center">
-  <img src="images/render.png" width="512"/>
+  <img src="images/render.png" width="720"/>
 </p>
 
 Irl pic coming soon.
