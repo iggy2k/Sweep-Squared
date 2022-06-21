@@ -3,6 +3,7 @@
  
 ## Why?
 The only reason I gave up on using the original Sweep is being able to comfortably use it on top of the laptop keyboard. Hopefully this one will work better.
+upd 06/21/2022: it does actually feel better!
 
 ## But it's just Zaphod
 Yes. 
@@ -12,12 +13,8 @@ Yes.
   <img src="images/render.png" width="720"/>
 </p>
 
-Irl pic coming soon.
-
 ## Firmware
-Will do soon, when free time :|
-
-Both QMK and ZMK should be fairly trivial to make.
+https://github.com/iggy2k/zmk-squared
  
 ## Credits
 Original Ferris is made by [pierrechevalier83](https://github.com/pierrechevalier83)
