@@ -6,8 +6,8 @@
 
   (title_block
     (title "Sweep^2")
-    (date "2022-06-05")
-    (rev "0.1")
+    (date "2022-06-20")
+    (rev "0.2")
   )
 
   (lib_symbols
@@ -391,7 +391,6 @@
       )
     )
   )
-
 
   (junction (at 120.65 88.9) (diameter 0) (color 0 0 0 0)
     (uuid 00317407-81cb-449b-9db8-564c9b33f2a4)
